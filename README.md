@@ -14,6 +14,8 @@ Visual components and Python
 ## Procedure :
 
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
+## Experiment:
+![image](https://github.com/Vanitha-SM/Open-Jacson-Networks/assets/119557985/9d376d66-015e-4dd8-85a8-5d27c6de7c31)
 
 
 ## Program
